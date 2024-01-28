@@ -1,2 +1,2 @@
 # Personal WebSite
-This personal Website is built using HTML & CSS only, which has responsiveness.
+This Personal Website is built using HTML & CSS only, which has web responsiveness.
