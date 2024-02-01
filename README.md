@@ -24,6 +24,4 @@ If you find any issues or have suggestions for improvement, please feel free to 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 Thank you for visiting my Personal Website repository! I hope you enjoy exploring the code and learning from it. If you have any questions or feedback, don't hesitate to reach out.
